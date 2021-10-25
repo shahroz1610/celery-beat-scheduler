@@ -10,7 +10,7 @@ res = {
     "chunk_size": 10, 
     "frequency": 30
 }
-csv_path = 'data/Assignment Sheet.csv'
+csv_path = 'data/data.csv'
 # add conn string here
 connection_str = MYSQL_CONN_STR
 redis_str = REDIS_CONN_STR
